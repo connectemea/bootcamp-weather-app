@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import SelectPlace from "./components/pages/SelectPlace";
 import WeatherCard from "./components/pages/WeatherCard";
 import WheatherDataProvider from "./context/weatherContext";
