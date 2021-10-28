@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bootcamp-weather-app/static/css/main.6cf84060.chunk.css",
+    "main.js": "/bootcamp-weather-app/static/js/main.72e7c20d.chunk.js",
+    "main.js.map": "/bootcamp-weather-app/static/js/main.72e7c20d.chunk.js.map",
+    "runtime-main.js": "/bootcamp-weather-app/static/js/runtime-main.bc38b4e0.js",
+    "runtime-main.js.map": "/bootcamp-weather-app/static/js/runtime-main.bc38b4e0.js.map",
+    "static/js/2.20e8d756.chunk.js": "/bootcamp-weather-app/static/js/2.20e8d756.chunk.js",
+    "static/js/2.20e8d756.chunk.js.map": "/bootcamp-weather-app/static/js/2.20e8d756.chunk.js.map",
+    "static/js/3.720e36d6.chunk.js": "/bootcamp-weather-app/static/js/3.720e36d6.chunk.js",
+    "static/js/3.720e36d6.chunk.js.map": "/bootcamp-weather-app/static/js/3.720e36d6.chunk.js.map",
+    "index.html": "/bootcamp-weather-app/index.html",
+    "static/css/main.6cf84060.chunk.css.map": "/bootcamp-weather-app/static/css/main.6cf84060.chunk.css.map",
+    "static/js/2.20e8d756.chunk.js.LICENSE.txt": "/bootcamp-weather-app/static/js/2.20e8d756.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc38b4e0.js",
+    "static/js/2.20e8d756.chunk.js",
+    "static/css/main.6cf84060.chunk.css",
+    "static/js/main.72e7c20d.chunk.js"
+  ]
+}
